@@ -2,15 +2,15 @@
 
 The app you are using is called Predict My4D. We hate legalese, so we've tried to make this policy readable. If you've got any questions, feel free to ask us, and we'll do our best to answer.
 
-A) Personal Data
+# A) Personal Data
 
 We do not require users to create accounts to use our mobile app. We do not store your data and information. We physically can't. We have nowhere to store it. We don't even have a server database to store it. Therefore, with Predict My4D, it is safe for you to know that your personal data will not be given or used by us.
 
-B) Billing Data
+# B) Billing Data
 
 Predict My4D mobile app is entirely free to use. We do not offer any in-app purchases nor do we offer paid products within our app. Therefore, you are not required to disclose Billing Data to download the mobile app.
 
-C) Marketing
+# C) Marketing
 
 Generally, we may serve third party ads in our products for mobile devices.
 
